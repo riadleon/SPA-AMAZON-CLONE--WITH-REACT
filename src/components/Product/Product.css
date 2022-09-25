@@ -33,6 +33,9 @@
 }
 
 .btn-cart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     background: #FFE0B3;
     border: 1px solid #95A0A7;
@@ -40,6 +43,11 @@
     position: absolute;
     bottom: 0;
 }
+
+.btn-text{
+    margin-right: 5px;
+}
+
 .btn-cart:hover{
     background: orange;
 }
