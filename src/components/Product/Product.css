@@ -32,6 +32,10 @@
     margin-top: 7px;
 }
 
+.price{
+    padding-bottom: 20px;
+}
+
 .btn-cart {
     display: flex;
     align-items: center;
